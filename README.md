@@ -6,3 +6,8 @@
 - [ ] 2장 - 파싱
 - [ ] 3장 - 평가
 - [ ] 4장 - 인터프리터 확장
+<img src="https://github.com/user-attachments/assets/5272e60f-e061-41ac-a560-25a13afb3e37" width="200" height="300" alt="go-interpreter-ko">
+<img src="https://github.com/user-attachments/assets/f1f6ef51-622e-4fe4-aceb-1df34703549f" width="200" height="300" alt="go-interpreter">
+
+
+The purpose of this project is to implement an interpreter for the 'Monkey' language as defined in Thorsten Ball's 'Writing Interpreter in Go'.
